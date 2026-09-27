@@ -1,0 +1,6 @@
+{
+  "name": "TeamSync",
+  "description": "Connect. Collaborate. Build. A student collaboration platform to discover people, form teams, build projects, participate in opportunities, and showcase completed work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
